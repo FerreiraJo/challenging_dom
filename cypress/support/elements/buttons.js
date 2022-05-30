@@ -6,7 +6,7 @@ const buttons = {
     return '[class="button alert"]'
   },
   greenBt: () => {
-    return '[class="button'
+    return '[class="button]'
   },
   editBt: () => {
     return 'a[href*="edit"]'
